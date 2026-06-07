@@ -3,6 +3,7 @@
   "source_account": "交易MVP",
   "source_scan_count": 386,
   "selected_count": 72,
+  "original_links_count": 72,
   "selection_rule": "剔除每日行情、短期个股点评、过时宏观事件、主题研报和社群营销内容；保留长期有效的方法论文章。",
   "modules": [
     {
@@ -97,7 +98,8 @@
       "title": "想赚钱，请远离A股",
       "topic": "市场选择与机会成本",
       "focus": "把这篇当作作者交易观的入口，重点看“为什么选市场比努力更重要”，不要照搬标题情绪。",
-      "id": "a001"
+      "id": "a001",
+      "original_url": "https://mp.weixin.qq.com/s/hm3B7DFofPC7B2cN91IK4g"
     },
     {
       "module_id": "trading-view",
@@ -107,7 +109,8 @@
       "title": "为啥说价值投资不适合普通人，趋势投资才适合？",
       "topic": "趋势交易与价值投资的适配问题",
       "focus": "提炼作者对普通人交易路径的判断，写下你是否接受这个前提。",
-      "id": "a002"
+      "id": "a002",
+      "original_url": "https://mp.weixin.qq.com/s/FENoL8WfsJV3BzwCdwFBEA"
     },
     {
       "module_id": "trading-view",
@@ -117,7 +120,8 @@
       "title": "菜市场大妈都能看懂的美股术语全解：一文搞懂基础概念，炒股不再晕！",
       "topic": "美股基础术语",
       "focus": "补基础概念，遇到术语不熟时回看，不必一次背完。",
-      "id": "a003"
+      "id": "a003",
+      "original_url": "https://mp.weixin.qq.com/s/kncGlHg6fm6DkUOjFKgLgQ"
     },
     {
       "module_id": "trading-view",
@@ -127,7 +131,8 @@
       "title": "为什么95%的人在股市亏钱？因为他们在做和赢家相反的事",
       "topic": "散户常见反向行为",
       "focus": "列出自己最容易犯的三类错误。",
-      "id": "a004"
+      "id": "a004",
+      "original_url": "https://mp.weixin.qq.com/s/DERYT71XVQb3BaHj2q8IXQ"
     },
     {
       "module_id": "trading-view",
@@ -137,7 +142,8 @@
       "title": "交易到底是科学还是艺术？",
       "topic": "规则与主观判断的边界",
       "focus": "区分可以量化的规则和需要经验判断的部分。",
-      "id": "a005"
+      "id": "a005",
+      "original_url": "https://mp.weixin.qq.com/s/7SvbCi2vR9CMRFxtv6KYtQ"
     },
     {
       "module_id": "market-regime",
@@ -147,7 +153,8 @@
       "title": "比选股重要100倍！看不懂“市场环境”，神仙也救不了亏钱的命！",
       "topic": "市场环境",
       "focus": "把文章里的环境判断项整理成检查表。",
-      "id": "a006"
+      "id": "a006",
+      "original_url": "https://mp.weixin.qq.com/s/KMn61FgN71TJvujypkg8qg"
     },
     {
       "module_id": "market-regime",
@@ -157,7 +164,8 @@
       "title": "一只股票从10块涨到100块，中间会发生什么？",
       "topic": "趋势中的价格路径",
       "focus": "理解大牛股不是直线上涨，而是拉升、整理、再拉升。",
-      "id": "a007"
+      "id": "a007",
+      "original_url": "https://mp.weixin.qq.com/s/WHNQim0BrmnH6C-OJJsLrw"
     },
     {
       "module_id": "market-regime",
@@ -167,7 +175,8 @@
       "title": "什么是趋势？三张图让你彻底搞懂",
       "topic": "趋势定义",
       "focus": "用自己的话定义上升趋势、下降趋势和震荡。",
-      "id": "a008"
+      "id": "a008",
+      "original_url": "https://mp.weixin.qq.com/s/CcMtPsS8tXZcLYZZMWzD8A"
     },
     {
       "module_id": "market-regime",
@@ -177,7 +186,8 @@
       "title": "让你真正看懂均线",
       "topic": "均线",
       "focus": "明确均线是趋势和成本观察工具，不是万能信号。",
-      "id": "a009"
+      "id": "a009",
+      "original_url": "https://mp.weixin.qq.com/s/FN5NRPDsrGZjV0-z1xvMMg"
     },
     {
       "module_id": "market-regime",
@@ -187,7 +197,8 @@
       "title": "成交量——最诚实的市场语言",
       "topic": "成交量",
       "focus": "学习成交量如何确认突破、衰竭和资金参与。",
-      "id": "a010"
+      "id": "a010",
+      "original_url": "https://mp.weixin.qq.com/s/QGZluO5yFFXoSrPiA21aCg"
     },
     {
       "module_id": "market-regime",
@@ -197,7 +208,8 @@
       "title": "什么是基底/底部结构？大牛股的发射台",
       "topic": "基底结构",
       "focus": "理解基底是风险收敛和新趋势准备区。",
-      "id": "a011"
+      "id": "a011",
+      "original_url": "https://mp.weixin.qq.com/s/HNDsnbeDDy_ouwKorZJFpQ"
     },
     {
       "module_id": "market-regime",
@@ -207,7 +219,8 @@
       "title": "一套完整的趋势交易系统长什么样？",
       "topic": "完整交易系统",
       "focus": "这是主线文章，读完后画出七步流程。",
-      "id": "a012"
+      "id": "a012",
+      "original_url": "https://mp.weixin.qq.com/s/L82sd_l9wTaLtddi6_EO5A"
     },
     {
       "module_id": "market-regime",
@@ -217,7 +230,8 @@
       "title": "什么是板块轮动与行业趋势？",
       "topic": "板块轮动",
       "focus": "学习如何从市场主线过渡到行业和个股。",
-      "id": "a013"
+      "id": "a013",
+      "original_url": "https://mp.weixin.qq.com/s/RZHa4RPZJ496f9FSAXRWiQ"
     },
     {
       "module_id": "stock-selection",
@@ -227,7 +241,8 @@
       "title": "这个简单的选股公式，助你美股波段交易！",
       "topic": "选股公式",
       "focus": "看选股条件背后的逻辑，不要只记公式。",
-      "id": "a014"
+      "id": "a014",
+      "original_url": "https://mp.weixin.qq.com/s/e4mqJIstk4Ur6AuJunO81Q"
     },
     {
       "module_id": "stock-selection",
@@ -237,7 +252,8 @@
       "title": "强势股在我们眼里都是明牌！股票魔法师这套百万级选股心法，今天交给你！",
       "topic": "强势股/SEPA",
       "focus": "提炼强势股的趋势、基本面、入场、风控标准。",
-      "id": "a015"
+      "id": "a015",
+      "original_url": "https://mp.weixin.qq.com/s/aGpR44oiO387597nG78FfA"
     },
     {
       "module_id": "stock-selection",
@@ -247,7 +263,8 @@
       "title": "想买股票却不知道选什么？顶级交易员都在盯的5大选股标准，普通人也能用！",
       "topic": "选股标准",
       "focus": "整理成自己的候选股筛选表。",
-      "id": "a016"
+      "id": "a016",
+      "original_url": "https://mp.weixin.qq.com/s/h_tyMwYCAN3YoZt019g6DQ"
     },
     {
       "module_id": "stock-selection",
@@ -257,7 +274,8 @@
       "title": "美股“潜龙勿用”的奥秘：为什么只跌一点点的股票，才是真正的大牛股？",
       "topic": "抗跌强势",
       "focus": "学习相对强度和抗跌性的意义。",
-      "id": "a017"
+      "id": "a017",
+      "original_url": "https://mp.weixin.qq.com/s/uG_o-ZwPliRiNP9iDS_Wmw"
     },
     {
       "module_id": "stock-selection",
@@ -267,7 +285,8 @@
       "title": "股神欧奈尔的“保命”秘籍：10条铁律，让你的资金永不归零！",
       "topic": "欧奈尔规则",
       "focus": "更偏规则和风控，可和卖出仓位模块交叉阅读。",
-      "id": "a018"
+      "id": "a018",
+      "original_url": "https://mp.weixin.qq.com/s/g4xNak5C4tt_K1HrJF8TFw"
     },
     {
       "module_id": "stock-selection",
@@ -277,7 +296,8 @@
       "title": "如何提前布局下一个热门板块，抓住翻倍牛股？（一套顶级操盘手的“主题选股”系统）",
       "topic": "主题选股",
       "focus": "学习主题、行业、个股三层筛选，但不要把主题叙事当买点。",
-      "id": "a019"
+      "id": "a019",
+      "original_url": "https://mp.weixin.qq.com/s/fgF7d2DHpRWMSxO76nkflA"
     },
     {
       "module_id": "stock-selection",
@@ -287,7 +307,8 @@
       "title": "为什么要买最强的股票？",
       "topic": "买强不买弱",
       "focus": "理解强势股策略的前提和风险。",
-      "id": "a020"
+      "id": "a020",
+      "original_url": "https://mp.weixin.qq.com/s/YcdFQEGuYHb5mK28h6I_Ig"
     },
     {
       "module_id": "stock-selection",
@@ -297,7 +318,8 @@
       "title": "选股清单——大牛股启动前的8个共同特征",
       "topic": "选股清单",
       "focus": "这是选股模块收束文章，输出自己的清单。",
-      "id": "a021"
+      "id": "a021",
+      "original_url": "https://mp.weixin.qq.com/s/Ka3LwhbNBAksbhnzXN5IMQ"
     },
     {
       "module_id": "setups-entry",
@@ -307,7 +329,8 @@
       "title": "出现这种形态，上涨的概率高达9成？下周的关注重点",
       "topic": "杯柄形态",
       "focus": "标题里的概率要打折，只学习杯柄结构和条件。",
-      "id": "a022"
+      "id": "a022",
+      "original_url": "https://mp.weixin.qq.com/s/o2HgW24XH3pkguWEShWN2w"
     },
     {
       "module_id": "setups-entry",
@@ -317,7 +340,8 @@
       "title": "关于杯柄形态，两大交易大师没有告诉你的事",
       "topic": "杯柄细节",
       "focus": "补充杯柄形态的质量判断。",
-      "id": "a023"
+      "id": "a023",
+      "original_url": "https://mp.weixin.qq.com/s/ZZOFvrk3_4enHK1uRonbfg"
     },
     {
       "module_id": "setups-entry",
@@ -327,7 +351,8 @@
       "title": "堪比印钞机！价值百万的VCP图表形态，秘密全在这了！深度解析（下）",
       "topic": "VCP",
       "focus": "重点看波动收缩、成交量和买点，不学夸张标题。",
-      "id": "a024"
+      "id": "a024",
+      "original_url": "https://mp.weixin.qq.com/s/mDI6yyup9JwKn2zvSipx5A"
     },
     {
       "module_id": "setups-entry",
@@ -337,7 +362,8 @@
       "title": "如何一眼识别“假突破”？这4个核心要素，让你少亏几十万！",
       "topic": "假突破",
       "focus": "从价格、成交量、持续性、市场环境四维判断突破质量。",
-      "id": "a025"
+      "id": "a025",
+      "original_url": "https://mp.weixin.qq.com/s/NL064htwsEJYNx2mDCpPYg"
     },
     {
       "module_id": "setups-entry",
@@ -347,7 +373,8 @@
       "title": "这可能是全网最全面的“双底形态”",
       "topic": "双底",
       "focus": "学习结构、右侧确认和失败条件。",
-      "id": "a026"
+      "id": "a026",
+      "original_url": "https://mp.weixin.qq.com/s/5j_XYiy1by-Lg0Devtu_5w"
     },
     {
       "module_id": "setups-entry",
@@ -357,7 +384,8 @@
       "title": "这可能是全网最全面的“平台整理形态”",
       "topic": "平台整理",
       "focus": "学习窄幅整理、支撑阻力和突破位置。",
-      "id": "a027"
+      "id": "a027",
+      "original_url": "https://mp.weixin.qq.com/s/7AeIr876XJH2fcbpiKLDZA"
     },
     {
       "module_id": "setups-entry",
@@ -367,7 +395,8 @@
       "title": "再谈最喜欢的形态之一：inside day",
       "topic": "Inside day",
       "focus": "作为短线 setup 补充，注意需要市场环境配合。",
-      "id": "a028"
+      "id": "a028",
+      "original_url": "https://mp.weixin.qq.com/s/P4DdpDQhdDRTxzje1ewHKg"
     },
     {
       "module_id": "setups-entry",
@@ -377,7 +406,8 @@
       "title": "不看后悔！“短线王炸”图表形态",
       "topic": "短线形态",
       "focus": "可选阅读，只保留可定义风险的部分。",
-      "id": "a029"
+      "id": "a029",
+      "original_url": "https://mp.weixin.qq.com/s/ig0ne6A9uSy7Qw5jKcjrYQ"
     },
     {
       "module_id": "setups-entry",
@@ -387,7 +417,8 @@
       "title": "不啰嗦，啥是“牛市旗形”？",
       "topic": "牛市旗形",
       "focus": "学习趋势中继形态。",
-      "id": "a030"
+      "id": "a030",
+      "original_url": "https://mp.weixin.qq.com/s/YzU2UPHFz7t65J9TN-e29g"
     },
     {
       "module_id": "setups-entry",
@@ -397,7 +428,8 @@
       "title": "普通人也能看懂主力“套路”！一文读懂Wyckoff交易法",
       "topic": "Wyckoff",
       "focus": "理解吸筹、派发、供需转换，不要神秘化。",
-      "id": "a031"
+      "id": "a031",
+      "original_url": "https://mp.weixin.qq.com/s/17rWd9EpsBPPblf_Z9acPQ"
     },
     {
       "module_id": "setups-entry",
@@ -407,7 +439,8 @@
       "title": "股市“制胜法宝”揭秘：普通人如何炼成交易高手，抓住“优势”？",
       "topic": "交易优势",
       "focus": "思考你的优势来自哪里：环境、选股、买点还是风控。",
-      "id": "a032"
+      "id": "a032",
+      "original_url": "https://mp.weixin.qq.com/s/GLfYf1aCZ6Gx4ubEuvuQyg"
     },
     {
       "module_id": "setups-entry",
@@ -417,7 +450,8 @@
       "title": "美股“飙升前”的神秘信号！顶级高手都在用的低风险买入，普通人也能学会？",
       "topic": "低风险买点",
       "focus": "重点看低风险位置，而不是“飙升”叙事。",
-      "id": "a033"
+      "id": "a033",
+      "original_url": "https://mp.weixin.qq.com/s/Qxu0kM-l58OU-FMZurm3SQ"
     },
     {
       "module_id": "setups-entry",
@@ -427,7 +461,8 @@
       "title": "请把“抄底”二字，从你的字典里删除",
       "topic": "不抄底",
       "focus": "学习趋势交易为什么等确认，不靠猜底。",
-      "id": "a034"
+      "id": "a034",
+      "original_url": "https://mp.weixin.qq.com/s/EDdRlcLS6cDp_ZAlLPTQWg"
     },
     {
       "module_id": "setups-entry",
@@ -437,7 +472,8 @@
       "title": "股价是如何上涨的？",
       "topic": "价格推进机制",
       "focus": "作为趋势结构补充阅读。",
-      "id": "a035"
+      "id": "a035",
+      "original_url": "https://mp.weixin.qq.com/s/W3FublkF6EhTz4fA4yZ0fg"
     },
     {
       "module_id": "setups-entry",
@@ -447,7 +483,8 @@
       "title": "突破——趋势交易者最重要的关键词",
       "topic": "突破",
       "focus": "这是买点模块主线文章，整理突破条件。",
-      "id": "a036"
+      "id": "a036",
+      "original_url": "https://mp.weixin.qq.com/s/x8Olv9L6Y0W7fsla7qTfsQ"
     },
     {
       "module_id": "setups-entry",
@@ -457,7 +494,8 @@
       "title": "何时买入？三种经典入场时机会",
       "topic": "买入时机",
       "focus": "把三类入场写成操作规则。",
-      "id": "a037"
+      "id": "a037",
+      "original_url": "https://mp.weixin.qq.com/s/0Q7e5RZ_-9e0yqn9n9st2w"
     },
     {
       "module_id": "risk-exit-position",
@@ -467,7 +505,8 @@
       "title": "从赚翻到亏光，只差一个“止盈”！攻克这个世界难题，你才能真正带走利润！",
       "topic": "止盈",
       "focus": "理解盈利交易也需要退出策略。",
-      "id": "a038"
+      "id": "a038",
+      "original_url": "https://mp.weixin.qq.com/s/0EBVn7R_VMsM-GAchEa8OA"
     },
     {
       "module_id": "risk-exit-position",
@@ -477,7 +516,8 @@
       "title": "目标价，是散户给自己挖的坑",
       "topic": "目标价误区",
       "focus": "学习用价格行为和规则替代幻想目标价。",
-      "id": "a039"
+      "id": "a039",
+      "original_url": "https://mp.weixin.qq.com/s/RsWs3_c9vjm1PmzntOEMmw"
     },
     {
       "module_id": "risk-exit-position",
@@ -487,7 +527,8 @@
       "title": "你不是不会赚钱，是不会控风险",
       "topic": "控风险",
       "focus": "把风险控制放到买入前。",
-      "id": "a040"
+      "id": "a040",
+      "original_url": "https://mp.weixin.qq.com/s/ohmnc-8eiVc2mXONj7AoTA"
     },
     {
       "module_id": "risk-exit-position",
@@ -497,7 +538,8 @@
       "title": "这篇文章也许能讲明白“仓位管理”",
       "topic": "仓位管理",
       "focus": "第一次搭建仓位规则。",
-      "id": "a041"
+      "id": "a041",
+      "original_url": "https://mp.weixin.qq.com/s/JTIzb_R6jDcGsCO4ut68_w"
     },
     {
       "module_id": "risk-exit-position",
@@ -507,7 +549,8 @@
       "title": "交易大师的8条“卖出铁律”，99%的人都做不到！",
       "topic": "卖出铁律",
       "focus": "整理卖出触发条件。",
-      "id": "a042"
+      "id": "a042",
+      "original_url": "https://mp.weixin.qq.com/s/z48-mJlBF_NnegSHqTEDOQ"
     },
     {
       "module_id": "risk-exit-position",
@@ -517,7 +560,8 @@
       "title": "美股逃顶秘籍！股票爆发性上涨后，出现这10个“天花板”信号，你必须立即清仓！",
       "topic": "衰竭卖出",
       "focus": "标题绝对化，重点学习顶部和衰竭信号。",
-      "id": "a043"
+      "id": "a043",
+      "original_url": "https://mp.weixin.qq.com/s/-Je8qmA35mlZB2bF4uEzEA"
     },
     {
       "module_id": "risk-exit-position",
@@ -527,7 +571,8 @@
       "title": "有一种胜利，叫“落袋为安”",
       "topic": "兑现利润",
       "focus": "作为止盈心理补充。",
-      "id": "a044"
+      "id": "a044",
+      "original_url": "https://mp.weixin.qq.com/s/zcQwdvuvProHrUz-1bJfzA"
     },
     {
       "module_id": "risk-exit-position",
@@ -537,7 +582,8 @@
       "title": "主动拥抱风险",
       "topic": "风险认知",
       "focus": "理解风险不是逃避对象，而是要被定义和控制。",
-      "id": "a045"
+      "id": "a045",
+      "original_url": "https://mp.weixin.qq.com/s/hPmSIUm3-mRZDTHexntRBA"
     },
     {
       "module_id": "risk-exit-position",
@@ -547,7 +593,8 @@
       "title": "何时卖出？——比买入更重要的事",
       "topic": "卖出系统",
       "focus": "这是卖出模块主线文章。",
-      "id": "a046"
+      "id": "a046",
+      "original_url": "https://mp.weixin.qq.com/s/fWs9setD_M8cjJEdKCT3og"
     },
     {
       "module_id": "risk-exit-position",
@@ -557,7 +604,8 @@
       "title": "仓位管理——为什么你赚了方向却亏了钱？",
       "topic": "R 和仓位",
       "focus": "这是仓位模块主线文章，必须输出公式。",
-      "id": "a047"
+      "id": "a047",
+      "original_url": "https://mp.weixin.qq.com/s/rK-4KbUwyXx45abOKri8zw"
     },
     {
       "module_id": "review-process",
@@ -567,7 +615,8 @@
       "title": "“赚钱”和“活下来”是两码事！靠运气只能爽一时，靠系统才能笑一世！",
       "topic": "系统化",
       "focus": "区分运气盈利和系统盈利。",
-      "id": "a048"
+      "id": "a048",
+      "original_url": "https://mp.weixin.qq.com/s/pCasS-rRFuCkq9L_dDyoJw"
     },
     {
       "module_id": "review-process",
@@ -577,7 +626,8 @@
       "title": "为什么说交易复盘是进步的关键中的关键？",
       "topic": "复盘",
       "focus": "明确复盘要看过程质量，不只看盈亏。",
-      "id": "a049"
+      "id": "a049",
+      "original_url": "https://mp.weixin.qq.com/s/QU2VarXxMMvBPJacTTEFYw"
     },
     {
       "module_id": "review-process",
@@ -587,7 +637,8 @@
       "title": "美股进阶必读！20句戳心金言，彻底颠覆你的交易思维！",
       "topic": "交易原则",
       "focus": "提炼原则即可，不需要全盘接受。",
-      "id": "a050"
+      "id": "a050",
+      "original_url": "https://mp.weixin.qq.com/s/F8GqlxGv5pklE8V3d7eobA"
     },
     {
       "module_id": "review-process",
@@ -597,7 +648,8 @@
       "title": "一套完整的“交易日志”复盘大法，帮你告别亏损恶性循环！",
       "topic": "交易日志",
       "focus": "直接照着做一版交易日志模板。",
-      "id": "a051"
+      "id": "a051",
+      "original_url": "https://mp.weixin.qq.com/s/IzQn1A4Y8ix15ISlFK5lWQ"
     },
     {
       "module_id": "review-process",
@@ -607,7 +659,8 @@
       "title": "“打工人”逆袭手册：上班族如何高效交易，也能像专业人士一样赚钱？",
       "topic": "时间管理",
       "focus": "适合上班族安排看盘、复盘和交易计划。",
-      "id": "a052"
+      "id": "a052",
+      "original_url": "https://mp.weixin.qq.com/s/JEGmh0IqsU1UUfK_WyiS6A"
     },
     {
       "module_id": "review-process",
@@ -617,7 +670,8 @@
       "title": "只需要重复",
       "topic": "重复执行",
       "focus": "理解系统的价值来自重复，而不是每天换新方法。",
-      "id": "a053"
+      "id": "a053",
+      "original_url": "https://mp.weixin.qq.com/s/_eUs7UosmF7KNiOvoCIU0A"
     },
     {
       "module_id": "psychology-discipline",
@@ -627,7 +681,8 @@
       "title": "你还在“追涨杀跌”吗？一个致命的交易误区！",
       "topic": "追涨杀跌",
       "focus": "识别情绪驱动交易。",
-      "id": "a054"
+      "id": "a054",
+      "original_url": "https://mp.weixin.qq.com/s/wpDt7rTXwmhJGG2O3Qu1mw"
     },
     {
       "module_id": "psychology-discipline",
@@ -637,7 +692,8 @@
       "title": "交易陷阱：警惕FOMO与过度交易的四大“心魔”",
       "topic": "FOMO/过度交易",
       "focus": "写出自己的停止交易条件。",
-      "id": "a055"
+      "id": "a055",
+      "original_url": "https://mp.weixin.qq.com/s/H12j8POdWvk7blCbezvFIQ"
     },
     {
       "module_id": "psychology-discipline",
@@ -647,7 +703,8 @@
       "title": "出现这9个信号，立刻“收手”！别让你的账户一夜归零！",
       "topic": "停止信号",
       "focus": "把文章转成“暂停交易清单”。",
-      "id": "a056"
+      "id": "a056",
+      "original_url": "https://mp.weixin.qq.com/s/-_ytGz75BZPvaN-CEhylPQ"
     },
     {
       "module_id": "psychology-discipline",
@@ -657,7 +714,8 @@
       "title": "亏损后，别让坏习惯“掏空”你！血泪总结：7个“自我毁灭”的坑，你是不是也踩过？",
       "topic": "亏损后行为",
       "focus": "设计亏损后的降频、降仓、复盘流程。",
-      "id": "a057"
+      "id": "a057",
+      "original_url": "https://mp.weixin.qq.com/s/VrD138Cm6Pwr1ZfbI2LVhA"
     },
     {
       "module_id": "psychology-discipline",
@@ -667,7 +725,8 @@
       "title": "读懂这10个“反人性”秘诀，普通人也能走向盈利！",
       "topic": "反人性",
       "focus": "挑出最适合自己的三条行为规则。",
-      "id": "a058"
+      "id": "a058",
+      "original_url": "https://mp.weixin.qq.com/s/xEvBwwpOqDHG2YRUsW3EKw"
     },
     {
       "module_id": "psychology-discipline",
@@ -677,7 +736,8 @@
       "title": "开盘前，如何像高手一样“清空大脑”？这8个习惯，帮你避开情绪化交易的坑！",
       "topic": "盘前心理",
       "focus": "适合做盘前检查表。",
-      "id": "a059"
+      "id": "a059",
+      "original_url": "https://mp.weixin.qq.com/s/mviFxBbWSh6oJi2G1IgG4w"
     },
     {
       "module_id": "psychology-discipline",
@@ -687,7 +747,8 @@
       "title": "你为什么总在FOMO时追高，在恐慌时割肉？这本书早就写好了答案",
       "topic": "FOMO/恐慌",
       "focus": "作为心理补充阅读。",
-      "id": "a060"
+      "id": "a060",
+      "original_url": "https://mp.weixin.qq.com/s/Dq-XDbfQRhm7CjugVtpVQA"
     },
     {
       "module_id": "psychology-discipline",
@@ -697,7 +758,8 @@
       "title": "交易的“当下”：你为何总在痛苦和悔恨中循环？",
       "topic": "当下与后悔",
       "focus": "关注交易后悔和执念。",
-      "id": "a061"
+      "id": "a061",
+      "original_url": "https://mp.weixin.qq.com/s/3pNn43oJSRwbSbhA1wv_2g"
     },
     {
       "module_id": "psychology-discipline",
@@ -707,7 +769,8 @@
       "title": "交易中的“无聊陷阱”：为什么“瞎忙活”最容易让你亏钱？",
       "topic": "无聊交易",
       "focus": "把“不交易”的规则写清楚。",
-      "id": "a062"
+      "id": "a062",
+      "original_url": "https://mp.weixin.qq.com/s/dNSwL4_eYM_AAXyhcfEM9Q"
     },
     {
       "module_id": "psychology-discipline",
@@ -717,7 +780,8 @@
       "title": "不要和股票谈恋爱",
       "topic": "持仓执念",
       "focus": "学习如何避免爱上持仓。",
-      "id": "a063"
+      "id": "a063",
+      "original_url": "https://mp.weixin.qq.com/s/jJ9_1GHUywA8Lt28ek7rzQ"
     },
     {
       "module_id": "tools-references",
@@ -727,7 +791,8 @@
       "title": "超好用的6个TradingView指标，关键还免费！",
       "topic": "TradingView 指标",
       "focus": "工具入门，注意指标服务于系统，不是替代系统。",
-      "id": "a064"
+      "id": "a064",
+      "original_url": "https://mp.weixin.qq.com/s/0aHlcKkuexToBP_lRKWQjg"
     },
     {
       "module_id": "tools-references",
@@ -737,7 +802,8 @@
       "title": "（纯干货）美股交易？2个简单指标让你精准获利",
       "topic": "指标组合",
       "focus": "看指标组合如何简化判断。",
-      "id": "a065"
+      "id": "a065",
+      "original_url": "https://mp.weixin.qq.com/s/y6mCfqTw-ld7aSXHBktrGA"
     },
     {
       "module_id": "tools-references",
@@ -747,7 +813,8 @@
       "title": "如果只能选两个指标，就是它们！全面强大到让你尖叫！",
       "topic": "两个指标",
       "focus": "适合工具最小化配置。",
-      "id": "a066"
+      "id": "a066",
+      "original_url": "https://mp.weixin.qq.com/s/f_IyTlqvij4vIekJam9MTw"
     },
     {
       "module_id": "tools-references",
@@ -757,7 +824,8 @@
       "title": "18个月爆赚1800倍！改变命运的访谈！这位交易大神亲口揭秘“印钞”全过程！",
       "topic": "Dan Zanger 案例",
       "focus": "当作经典交易者案例，别学收益数字。",
-      "id": "a067"
+      "id": "a067",
+      "original_url": "https://mp.weixin.qq.com/s/-nTXmBA-tK_WJ3uNQGEVGg"
     },
     {
       "module_id": "tools-references",
@@ -767,7 +835,8 @@
       "title": "美股两大传奇操盘手：温斯坦和欧奈尔，他们成功的秘诀，竟是这8条“共同法则”！",
       "topic": "温斯坦/欧奈尔",
       "focus": "归纳共同法则。",
-      "id": "a068"
+      "id": "a068",
+      "original_url": "https://mp.weixin.qq.com/s/dEnRXEJnZrW1PFAYNTSfug"
     },
     {
       "module_id": "tools-references",
@@ -777,7 +846,8 @@
       "title": "普通人如何成为“市场奇才”？这10个核心教训，你必须吃透！",
       "topic": "市场奇才",
       "focus": "提炼长期原则。",
-      "id": "a069"
+      "id": "a069",
+      "original_url": "https://mp.weixin.qq.com/s/Y9of3CI39anuQ0Nv8F_4Xg"
     },
     {
       "module_id": "tools-references",
@@ -787,7 +857,8 @@
       "title": "顶级操盘手Dan Zanger的“三板斧”，如何捕捉市场的“风口”和“龙头”？",
       "topic": "Dan Zanger 方法",
       "focus": "学习风口、龙头和图形结合。",
-      "id": "a070"
+      "id": "a070",
+      "original_url": "https://mp.weixin.qq.com/s/4gTokv4T5xfyyk6WzStawg"
     },
     {
       "module_id": "tools-references",
@@ -797,7 +868,8 @@
       "title": "美股传奇：3年100倍！大卫·瑞安的“市场奇才”交易系统全解析！",
       "topic": "David Ryan",
       "focus": "补充相对强度、市场环境和风险控制。",
-      "id": "a071"
+      "id": "a071",
+      "original_url": "https://mp.weixin.qq.com/s/_f4Xt9HaAqq64QRL0RRaCA"
     },
     {
       "module_id": "tools-references",
@@ -807,7 +879,8 @@
       "title": "告别无效搜集！大佬们也在用的美股投资工具箱",
       "topic": "工具箱",
       "focus": "整理自己的信息源和工具，不要无限搜集。",
-      "id": "a072"
+      "id": "a072",
+      "original_url": "https://mp.weixin.qq.com/s/w5-tVnTKUa6Lrfa4j6VtyA"
     }
   ]
 }
