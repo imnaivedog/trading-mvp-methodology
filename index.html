@@ -230,6 +230,19 @@
       font-weight: 800;
       overflow-wrap: anywhere;
     }
+    .article-title a {
+      color: var(--teal);
+      text-decoration: none;
+    }
+    .article-title a:hover {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+    .article-title a:focus-visible {
+      outline: 2px solid var(--teal);
+      outline-offset: 3px;
+      border-radius: 3px;
+    }
     .article-sub {
       color: var(--muted);
       font-size: 13px;
@@ -248,29 +261,6 @@
     }
     .priority.core { background: #e5f2e9; color: var(--green); }
     .priority.support { background: #f7ead8; color: var(--amber); }
-    .article-side {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 8px;
-    }
-    .article-link {
-      display: inline-flex;
-      align-items: center;
-      min-height: 25px;
-      border: 1px solid #c9dedd;
-      border-radius: 999px;
-      background: #edf7f6;
-      color: var(--teal);
-      padding: 3px 10px;
-      text-decoration: none;
-      font-size: 12px;
-      white-space: nowrap;
-    }
-    .article-link:hover {
-      border-color: var(--teal);
-      background: #e2f2f1;
-    }
     .footer-note {
       margin-top: 34px;
       color: var(--muted);
@@ -292,13 +282,7 @@
       .module-head { grid-template-columns: 1fr; }
       .module-count { text-align: left; }
       .article { grid-template-columns: 30px minmax(0, 1fr); }
-      .article-side {
-        grid-column: 2;
-        justify-self: start;
-        align-items: flex-start;
-        flex-direction: row;
-        flex-wrap: wrap;
-      }
+      .priority { grid-column: 2; justify-self: start; }
     }
   </style>
 </head>
@@ -435,19 +419,17 @@
       const doneClass = done.has(article.id) ? ' done' : '';
       const priorityText = article.priority === 'core' ? '必读' : '选读';
       const originalHref = safeOriginalUrl(article.original_url);
-      const originalLink = originalHref ? `<a class="article-link" href="${originalHref}" target="_blank" rel="noreferrer">微信原文</a>` : '';
+      const titleText = `${article.date}《${article.title}》`;
+      const titleHtml = originalHref ? `<a href="${originalHref}" target="_blank" rel="noreferrer">${titleText}</a>` : titleText;
       return `
         <article class="article${doneClass}" data-id="${article.id}">
           <input class="check" type="checkbox" aria-label="标记完成" data-id="${article.id}" ${checked}>
           <div>
-            <div class="article-title">${article.date}《${article.title}》</div>
+            <div class="article-title">${titleHtml}</div>
             <div class="article-sub">${article.topic}</div>
             <div class="article-focus">${article.focus}</div>
           </div>
-          <div class="article-side">
-            <span class="priority ${article.priority}">${priorityText}</span>
-            ${originalLink}
-          </div>
+          <span class="priority ${article.priority}">${priorityText}</span>
         </article>
       `;
     }
